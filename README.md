@@ -82,7 +82,14 @@ Desenvolver uma sistema completo, desde o Backend ao Frontend, utilizando as tec
 		2: Abrir o terminal dentro da pasta.
 		3: Rodar o comando "Yarn", pois instalara todas as dependencias.
 		4: Por ultimo, apenas rodar o comando "yarn dev", que ira iniciar o servidor.
-    5: Utilizar a rota -> http://localhost:3333/rota (rota = Nome da rota)
+	    	5: Utilizar a rota -> http://localhost:3333/rota (rota = Nome da rota)
+		
+<h4>Frontend</h4>
+	
+		1: Clonar o projeto.
+		2: Abrir o terminal dentro da pasta.
+		3: Rodar o comando "Yarn", pois instalara todas as dependencias.
+		4: Por ultimo, apenas rodar o comando "yarn start", que ira iniciar o servidor.
 
 <h3>Autor</h3>
 	
